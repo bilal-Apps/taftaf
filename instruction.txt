@@ -1,0 +1,90 @@
+Agendrix est une plateforme de gestion des horaires et de la planification destinée principalement aux entreprises ayant des employés à horaires variables. Elle permet de simplifier la gestion du personnel, en particulier dans des secteurs comme la restauration, le commerce de détail et autres industries nécessitant une gestion horaire dynamique. Voici une liste des principales fonctionnalités d'Agendrix :
+
+1. Planification des horaires
+Création et gestion des plannings : Permet de créer, modifier et gérer les horaires des employés de manière simple et rapide.
+
+Assignation des tâches : Permet d'assigner des tâches spécifiques à des employés selon leurs disponibilités et compétences.
+
+Gestion des absences et congés : Facilité de planification des absences (maladie, vacances, congés spéciaux) et de suivi des jours non travaillés.
+
+Notifications de changements de planning : Envoie des notifications aux employés lorsqu'il y a des modifications dans leur planning.
+
+2. Suivi du temps et pointage
+Pointage des employés : Permet aux employés de pointer leur arrivée et leur départ directement via l'application.
+
+Suivi des heures travaillées : Permet de suivre en temps réel les heures de travail, les heures supplémentaires, ainsi que les heures manquantes.
+
+Suivi des pauses : Gestion des pauses (début et fin) et intégration dans le calcul des heures de travail.
+
+Rapports détaillés : Génération de rapports sur les heures travaillées, les heures supplémentaires, et les absences des employés.
+
+3. Gestion des disponibilités
+Saisie des disponibilités des employés : Les employés peuvent entrer leurs disponibilités, ce qui facilite la planification en fonction de leurs horaires disponibles.
+
+Gestion des préférences : Permet aux employés de spécifier leurs préférences de travail, comme les jours où ils préfèrent travailler ou ne pas travailler.
+
+4. Communication interne
+Messagerie interne : Permet la communication entre les gestionnaires et les employés au sein de l'application.
+
+Alertes et notifications : Envoie des notifications pour rappeler les horaires, les changements dans les plannings, ou les messages importants.
+
+Demande de congé et approbation : Les employés peuvent demander des congés et les gestionnaires peuvent approuver ou refuser ces demandes via l'application.
+
+5. Gestion des salaires et de la paie
+Calcul automatique des heures de travail : Agendrix peut calculer automatiquement les heures travaillées, y compris les heures supplémentaires.
+
+Export des données pour la paie : Permet d'exporter les données de travail des employés (heures, absences, congés) vers des logiciels de gestion de la paie ou des outils comptables.
+
+Rapports de paie détaillés : Fournit des rapports complets pour le traitement des salaires, y compris les heures régulières et les heures supplémentaires.
+
+6. Suivi des absences et des congés
+Suivi des congés : Permet aux employés de poser des congés et aux gestionnaires de suivre et approuver les demandes.
+
+Gestion des absences imprévues : Suivi des absences non planifiées comme les maladies ou les urgences.
+
+Suivi des soldes de congés : Gestion des soldes de congés, des jours de maladie et des jours de vacances restant.
+
+7. Rapports et analyses
+Rapports personnalisés : Génération de rapports personnalisés pour analyser les heures travaillées, les absences, les coûts de main-d'œuvre, etc.
+
+Analyses de performance : Permet d'analyser les performances des employés en fonction des heures travaillées et d'autres paramètres.
+
+Rapports de coûts : Suivi des coûts liés aux salaires et à la gestion du personnel.
+
+8. Accès mobile et application
+Application mobile : Agendrix propose une application mobile pour que les employés et les gestionnaires puissent gérer les horaires, consulter les plannings, pointer leurs heures, etc.
+
+Consultation des horaires en temps réel : Les employés peuvent consulter leur planning en temps réel, avec des mises à jour immédiates sur les changements.
+
+9. Gestion des équipes
+Création d’équipes et de groupes : Permet de diviser les employés en équipes ou groupes, ce qui simplifie la gestion des plannings et l’affectation des tâches.
+
+Affectation de tâches spécifiques aux équipes : Gestion des tâches en fonction des équipes de travail.
+
+10. Gestion de la conformité
+Respect des normes de travail : Assure que les plannings respectent les réglementations locales sur les heures de travail, les pauses, et les jours de repos.
+
+Gestion des contrats et des heures maximales : Permet de gérer les contrats de travail et de s’assurer que les employés ne dépassent pas leurs limites d’heures légales.
+
+11. Intégration avec d'autres outils
+Synchronisation avec des outils externes : Intégration possible avec d'autres logiciels de gestion de la paie, de comptabilité, ou des outils RH.
+
+API disponible : Possibilité d’intégrer Agendrix avec d’autres systèmes via des API pour une gestion unifiée.
+
+12. Gestion des remplacements
+Planification des remplacements : Facilite la gestion des remplacements en cas d’absence (maladie, congé) et permet de trouver des remplaçants rapidement.
+
+Alertes de remplacement : Notifications automatiques aux employés disponibles pour effectuer un remplacement.
+
+13. Support multi-utilisateur
+Comptes multiples pour gestionnaires et employés : Permet d’avoir différents niveaux d'accès pour les gestionnaires et les employés, avec des autorisations spécifiques pour chaque type d'utilisateur.
+
+14. Gestion des heures supplémentaires
+Calcul des heures supplémentaires : Calcul automatique des heures supplémentaires et gestion des règles concernant leur rémunération.
+
+Suivi des heures supplémentaires : Permet aux gestionnaires de suivre et de valider les heures supplémentaires effectuées par les employés.
+
+15. Interface conviviale
+Interface intuitive : Interface simple et facile à utiliser pour gérer les plannings et les employés sans complexité.
+
+Personnalisation des plannings : Les gestionnaires peuvent facilement personnaliser les horaires de travail en fonction des besoins spécifiques de leur entreprise.
